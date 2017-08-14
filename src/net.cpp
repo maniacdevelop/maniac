@@ -1175,12 +1175,16 @@ void MapPort(bool)
 static const char *strMainNetDNSSeed[][2] = {
     {"maniaccoin.com", "217.182.226.18"},
 	{"217.182.226.18", "217.182.226.18"},
+	{"maniaccoin.com", "178.75.42.11"},
+	{"178.75.42.11", "178.75.42.11"},
 	{NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
     {"maniaccoin.com", "217.182.226.18"},
 	{"217.182.226.18", "217.182.226.18"},
+	{"maniaccoin.com", "178.75.42.11"},
+	{"178.75.42.11", "178.75.42.11"},
 	{NULL, NULL}
 };
 
